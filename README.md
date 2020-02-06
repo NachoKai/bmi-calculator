@@ -3,5 +3,5 @@
 •Express 
 
 >npm install  
->npm run server
+>npm run server  
 >http://localhost:3000/
